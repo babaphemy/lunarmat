@@ -1,15 +1,10 @@
 import React from 'react'
 import './assets/css/main.css';
-import Home from './components/Home';
-import Footer from './layout/Footer';
-import Header from './layout/Header';
 
 function App() {
   return (
-    <div className="App">
-     <Header />
-     <Home />
-     <Footer />
+    <div className="welcome">
+      <h1>Welcome to LunarMat</h1>
     </div>
   );
 }
