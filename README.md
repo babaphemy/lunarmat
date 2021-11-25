@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# LunarMat
 
+Learning activity for horacelearning.com, introduction to ReactJS course
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
